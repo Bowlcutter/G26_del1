@@ -62,6 +62,7 @@
       <workItem from="1664189971173" duration="2320000" />
       <workItem from="1664198501824" duration="117000" />
       <workItem from="1664198635738" duration="470000" />
+      <workItem from="1664199121253" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="første commit">
       <created>1664190218080</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664198974574</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated Game.java by making it a main file.">
+      <created>1664199154116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199154116</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
