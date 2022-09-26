@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3774ad02-8218-4a6f-af15-8866b3d1884a" name="Changes" comment="updated Game.java by making it a main file." />
+    <list default="true" id="3774ad02-8218-4a6f-af15-8866b3d1884a" name="Changes" comment="updated Game.java by making it a main file.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spil/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spil/Game.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +66,7 @@
       <workItem from="1664198501824" duration="117000" />
       <workItem from="1664198635738" duration="470000" />
       <workItem from="1664199121253" duration="400000" />
+      <workItem from="1664199675238" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="første commit">
       <created>1664190218080</created>
@@ -99,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664199154116</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated Game.java by making it a main file.">
+      <created>1664199701544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199701544</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +139,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/spil/Game.java</url>
-          <line>4</line>
+          <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
