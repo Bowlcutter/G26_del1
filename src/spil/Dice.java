@@ -2,7 +2,7 @@ package spil;
 
 public class Dice {
 
-    private int faceValue1 = 1, faceValue2 = 1;
+    public int faceValue1 = 1, faceValue2 = 1;
 
     public Dice(){
 

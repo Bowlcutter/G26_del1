@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3774ad02-8218-4a6f-af15-8866b3d1884a" name="Changes" comment="commit tres, added roll">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spil/Rafflecup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spil/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spil/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spil/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spil/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.30379745",
     "settings.editor.selected.configurable": "File.Encoding"
@@ -66,6 +64,7 @@
       <updated>1664189969794</updated>
       <workItem from="1664189971173" duration="2320000" />
       <workItem from="1664195868369" duration="4900000" />
+      <workItem from="1664202159835" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="første commit">
       <created>1664190218080</created>
@@ -110,16 +109,5 @@
     <MESSAGE value="anden commit (tomme metoder + ændret til utf 8 encoding)" />
     <MESSAGE value="commit tres, added roll" />
     <option name="LAST_COMMIT_MESSAGE" value="commit tres, added roll" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/spil/Game.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
