@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3774ad02-8218-4a6f-af15-8866b3d1884a" name="Changes" comment="commit tres, added roll">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spil/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spil/Game.java" afterDir="false" />
-    </list>
+    <list default="true" id="3774ad02-8218-4a6f-af15-8866b3d1884a" name="Changes" comment="updated Game.java by making it a main file." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <updated>1664189969794</updated>
       <workItem from="1664189971173" duration="2320000" />
       <workItem from="1664198501824" duration="117000" />
-      <workItem from="1664198635738" duration="294000" />
+      <workItem from="1664198635738" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="første commit">
       <created>1664190218080</created>
@@ -87,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664192406583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated Game.java by making it a main file.">
+      <created>1664198974574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664198974574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +112,8 @@
     <MESSAGE value="første commit" />
     <MESSAGE value="anden commit (tomme metoder + ændret til utf 8 encoding)" />
     <MESSAGE value="commit tres, added roll" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit tres, added roll" />
+    <MESSAGE value="updated Game.java by making it a main file." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Game.java by making it a main file." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
